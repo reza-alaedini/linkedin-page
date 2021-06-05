@@ -497,6 +497,7 @@ img.my-items-private{
     margin-left: 50px;
     background-color: rgb(181, 211, 245);
     overflow-x: hidden;
+    overflow-y: hidden;
   }
   .about{
     width: 400px;
