@@ -1,2 +1,2 @@
-hello!
-This is Readme file for more information for you ! ! 
+Hello!
+This is Just a exercise and tried to design "Linked's UI" with HTML & CSS :)
